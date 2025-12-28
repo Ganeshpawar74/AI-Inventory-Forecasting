@@ -17,4 +17,11 @@ Automates reorder notifications via n8n
 Interactive Streamlit dashboard for easy insights
 Reduces overstock, stockouts, and saves operational time
 This is AI meeting operations—turning data into actionable decisions and saving time, money, and effort.
-<img width="1525" height="355" alt="Screenshot 2025-12-22 180241" src="https://github.com/user-attachments/assets/d6408b75-ffa0-40e3-a211-68b3e0beb8d3" />
+<img width="1919" height="1079" alt="Screenshot 2025-12-22 184713" src="https://github.com/user-attachments/assets/a33d5e8d-8097-44ae-bc76-57de6937f253" />
+<img width="1907" height="1079" alt="Screenshot 2025-12-22 184519" src="https://github.com/user-attachments/assets/48b069db-cf8a-4407-98ff-c7735681aa9c" />
+<img width="1919" height="1079" alt="Screenshot 2025-12-22 184455" src="https://github.com/user-attachments/assets/36b6fcc4-679f-47e9-8924-fde032827546" />
+<img width="1919" height="865" alt="Screenshot 2025-12-22 180417" src="https://github.com/user-attachments/assets/6c3f87a4-5ec7-43e9-889d-598cdffcc5e2" />
+
+
+
+
